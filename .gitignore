@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Numeric Matrix Processor/task/build/
+/Numeric Matrix Processor/task/out/
+/Numeric Matrix Processor/task/out/production/classes/
